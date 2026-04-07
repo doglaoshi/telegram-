@@ -1,5 +1,5 @@
 
-# 狗老师（goulaoshi）
+# ✈️狗老师（@goulaoshi）
 机器人订制 自动化 盘口开发 
 # Telegram 管理机器人
 
